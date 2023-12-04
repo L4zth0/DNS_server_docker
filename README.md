@@ -1,5 +1,8 @@
 # DNS_server_docker
-this is repository installs adguard,  pihole amond others in docker platform
+This is repository to demostrate the setting of the environment to host adguard,  pihole amond others in raspberry Pi and docker
+
+On the next image we can see the basic infrastructure of the environment
+
 ![image](https://github.com/L4zth0/DNS_server_docker/assets/15909248/41d0728b-4304-45ea-b55d-b959927a3542)
 
 ## 1. install docker
