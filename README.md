@@ -1,5 +1,5 @@
 # DNS_server_docker
-This is repository to demostrate the setting of the environment to host adguard,  pihole amond others in raspberry Pi and docker
+This is repository to demostrate environment configuration to host adguard,  pihole amond others in raspberry Pi and docker
 
 On the next image we can see the basic infrastructure of the environment
 
